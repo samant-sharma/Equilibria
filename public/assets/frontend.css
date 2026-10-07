@@ -1,0 +1,6 @@
+/* Behavior-only additions; original typography, colors and layout are in original.css. */
+[hidden] { display: none !important; }
+.frontend-dropdown-open > button { color: var(--ink); }
+.frontend-dropdown-open > button::after { transform: scaleX(1) !important; }
+.frontend-dropdown-open > button svg { transform: rotate(180deg); }
+.frontend-dropdown-open > [aria-hidden] { pointer-events: auto; opacity: 1; --tw-translate-y: 0px; }

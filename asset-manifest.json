@@ -1,0 +1,2053 @@
+{
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-eba7270fe7.png",
+    "bytes": 451348,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-75d5da7993.png",
+    "bytes": 559733,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-64f7b8cb60.png",
+    "bytes": 559733,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-64f7b8cb60.png",
+    "bytes": 559733,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-64f7b8cb60.png",
+    "bytes": 559733,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-64f7b8cb60.png",
+    "bytes": 559733,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-64f7b8cb60.png",
+    "bytes": 559733,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-89d178e85e.png",
+    "bytes": 183725,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-9f6cfd9162.png",
+    "bytes": 239942,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-b711afdbda.png",
+    "bytes": 283685,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-fc95286155.png",
+    "bytes": 367648,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-4327fc1e7f.jpg",
+    "bytes": 2461305,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=1080&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-64ae5eff24.jpg",
+    "bytes": 117884,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=1280&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-85c730e4ca.jpg",
+    "bytes": 165756,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=1668&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-87cbfac065.jpg",
+    "bytes": 275920,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=1920&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-7c65d35e41.jpg",
+    "bytes": 361825,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=2048&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-dd7e8bdde4.jpg",
+    "bytes": 406729,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=2560&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-d1ca19aaa9.jpg",
+    "bytes": 613684,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=3200&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-0ed4690c83.jpg",
+    "bytes": 911437,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=3840&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-2cfab18bcd.jpg",
+    "bytes": 1250069,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=4480&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-a0f9cc4483.jpg",
+    "bytes": 1628083,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=5120&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-97f07da4b3.jpg",
+    "bytes": 2030598,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=6016&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-4327fc1e7f.jpg",
+    "bytes": 2461305,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=640&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-4d31b9187b.jpg",
+    "bytes": 47796,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=750&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-4ed9324f9a.jpg",
+    "bytes": 62160,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=828&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-cfeb754a3a.jpg",
+    "bytes": 73878,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392.jpg?w=960&fit=min&auto=format": {
+    "local": "/assets/images/13ad2f38428c569bc6f1b59b24f7d8474245afa0-5632x3392-e2ad1ffaeb.jpg",
+    "bytes": 95621,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-96352c350f.png",
+    "bytes": 301451,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-470b21f76a.png",
+    "bytes": 364851,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-3ec053ec78.png",
+    "bytes": 364851,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-3ec053ec78.png",
+    "bytes": 364851,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-3ec053ec78.png",
+    "bytes": 364851,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-3ec053ec78.png",
+    "bytes": 364851,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-3ec053ec78.png",
+    "bytes": 364851,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-a21ab2bc1d.png",
+    "bytes": 129193,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-eb2d1da5ac.png",
+    "bytes": 165964,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-01a2c2218a.png",
+    "bytes": 195389,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-940cb33a91.png",
+    "bytes": 249117,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=1080&h=321&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-fcd7dc94ba.jpg",
+    "bytes": 33195,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=1280&h=381&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-4067ce8476.jpg",
+    "bytes": 42299,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=1668&h=496&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-c70b6b6b10.jpg",
+    "bytes": 64248,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=1920&h=572&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-b5ce22adf3.jpg",
+    "bytes": 79412,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=2048&h=610&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-bc1d224ff8.jpg",
+    "bytes": 88051,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=2560&h=762&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-d76883563d.jpg",
+    "bytes": 122283,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=640&h=191&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-dacfc2ec40.jpg",
+    "bytes": 15069,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=750&h=223&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-a2a12d685e.jpg",
+    "bytes": 19015,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=828&h=246&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-d2b7b2b4e8.jpg",
+    "bytes": 22041,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?auto=format&w=960&h=286&q=70&fit=min": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-99662a27e8.jpg",
+    "bytes": 27710,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=1080&h=608&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-7699c3830a.jpg",
+    "bytes": 23312,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=1280&h=720&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-4b93e8ffaa.jpg",
+    "bytes": 34660,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=1668&h=938&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-4b93e8ffaa.jpg",
+    "bytes": 34660,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=1920&h=1080&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-4b93e8ffaa.jpg",
+    "bytes": 34660,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=2048&h=1152&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-4b93e8ffaa.jpg",
+    "bytes": 34660,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=2560&h=1440&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-4b93e8ffaa.jpg",
+    "bytes": 34660,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=640&h=360&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-b0d73cab23.jpg",
+    "bytes": 11092,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=750&h=422&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-54c042fb8c.jpg",
+    "bytes": 13940,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=828&h=466&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-4b05c91d27.jpg",
+    "bytes": 16174,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720.jpg?auto=format&w=960&h=540&q=70&fit=min": {
+    "local": "/assets/images/37121497479acd1adc983017b0e7f7ba619e13f0-1280x720-d0ee637ca7.jpg",
+    "bytes": 19802,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=1080&h=405&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-aea3f83c79.jpg",
+    "bytes": 56213,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=1280&h=480&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-729dd68d7a.jpg",
+    "bytes": 73392,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=1668&h=626&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-a99d536789.jpg",
+    "bytes": 116534,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=1920&h=720&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-8d03380d7c.jpg",
+    "bytes": 144582,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=2048&h=768&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-b7621fc4f7.jpg",
+    "bytes": 160125,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=2560&h=960&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-e1354adbae.jpg",
+    "bytes": 227222,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=640&h=240&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-9efe2e3eea.jpg",
+    "bytes": 23025,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=750&h=281&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-e8ec2a2320.jpg",
+    "bytes": 30200,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=828&h=311&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-c3e7162fbd.jpg",
+    "bytes": 35453,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?auto=format&w=960&h=360&q=70&fit=min": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-71394c81d8.jpg",
+    "bytes": 45882,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=1080&h=540&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-906fd11bba.jpg",
+    "bytes": 51772,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=1280&h=640&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-7a747f84c3.jpg",
+    "bytes": 67771,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=1668&h=834&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-0eca4f478b.jpg",
+    "bytes": 108778,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=1920&h=960&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-b471e3d410.jpg",
+    "bytes": 137541,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=2048&h=1024&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-0beddee247.jpg",
+    "bytes": 151208,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=2560&h=1280&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-37d53f486f.jpg",
+    "bytes": 217494,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=640&h=320&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-385082d4cf.jpg",
+    "bytes": 20711,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=750&h=375&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-61bb917eee.jpg",
+    "bytes": 27400,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=828&h=414&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-1122a78788.jpg",
+    "bytes": 32059,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?auto=format&w=960&h=480&q=70&fit=min": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-90295e9271.jpg",
+    "bytes": 41545,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-e2bdcb46b8.png",
+    "bytes": 567664,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-cab7b87322.png",
+    "bytes": 700926,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-0c7212739c.png",
+    "bytes": 700926,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-0c7212739c.png",
+    "bytes": 700926,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-0c7212739c.png",
+    "bytes": 700926,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-0c7212739c.png",
+    "bytes": 700926,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-0c7212739c.png",
+    "bytes": 700926,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-d55219b754.png",
+    "bytes": 229067,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-4830614d58.png",
+    "bytes": 299996,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-6499edd7b8.png",
+    "bytes": 356148,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-5b712345d3.png",
+    "bytes": 459617,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=1024&h=1024&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-86b7d94984.png",
+    "bytes": 2111250,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-e7d36ce6c5.png",
+    "bytes": 2111250,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-e7d36ce6c5.png",
+    "bytes": 2111250,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-e7d36ce6c5.png",
+    "bytes": 2111250,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-e7d36ce6c5.png",
+    "bytes": 2111250,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-e7d36ce6c5.png",
+    "bytes": 2111250,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-9e3a2b60f9.png",
+    "bytes": 863043,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-f80bc758a1.png",
+    "bytes": 1172367,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-bf98f364ca.png",
+    "bytes": 1416209,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-1d2f614bdf.png",
+    "bytes": 1878457,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-868e9605f3.png",
+    "bytes": 456111,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-2b2c383a29.png",
+    "bytes": 559314,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-824b216205.png",
+    "bytes": 559314,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-824b216205.png",
+    "bytes": 559314,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-824b216205.png",
+    "bytes": 559314,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-824b216205.png",
+    "bytes": 559314,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-824b216205.png",
+    "bytes": 559314,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-321d042e03.png",
+    "bytes": 188288,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-27fb971d79.png",
+    "bytes": 245471,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-37ce6768e4.png",
+    "bytes": 287744,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-8d11ff302a.png",
+    "bytes": 372521,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-39a97445d3.png",
+    "bytes": 437906,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-e843fd3ff1.png",
+    "bytes": 542701,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-5104648aa2.png",
+    "bytes": 542701,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-5104648aa2.png",
+    "bytes": 542701,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-5104648aa2.png",
+    "bytes": 542701,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-5104648aa2.png",
+    "bytes": 542701,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-5104648aa2.png",
+    "bytes": 542701,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-8921e3bf9a.png",
+    "bytes": 182011,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-edb688c80f.png",
+    "bytes": 239393,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-a022b06629.png",
+    "bytes": 281258,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-d0a9baede4.png",
+    "bytes": 359679,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-114fceade0.png",
+    "bytes": 375442,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-5bad25e479.png",
+    "bytes": 454215,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-8eff87a323.png",
+    "bytes": 454215,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-8eff87a323.png",
+    "bytes": 454215,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-8eff87a323.png",
+    "bytes": 454215,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-8eff87a323.png",
+    "bytes": 454215,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-8eff87a323.png",
+    "bytes": 454215,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-4d64b26151.png",
+    "bytes": 159325,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-df4b644261.png",
+    "bytes": 205728,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-0f0ede0777.png",
+    "bytes": 241796,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-f9eb8c5a04.png",
+    "bytes": 308075,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=1080&h=720&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-a77c8d8c6e.jpg",
+    "bytes": 91544,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=1280&h=853&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-09f6cb9988.jpg",
+    "bytes": 115843,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=1668&h=1112&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-bafe8aedfa.jpg",
+    "bytes": 169284,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=1920&h=1280&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-f26f83223a.jpg",
+    "bytes": 204693,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=2048&h=1365&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-25c1be4400.jpg",
+    "bytes": 224566,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=2560&h=1706&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-1d20701b18.jpg",
+    "bytes": 308903,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=640&h=427&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-a5bc4b0fae.jpg",
+    "bytes": 42482,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=750&h=500&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-c4caa68aa1.jpg",
+    "bytes": 53503,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=828&h=552&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-2292f3bcb3.jpg",
+    "bytes": 63189,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?auto=format&w=960&h=640&q=70&fit=min": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-c8b0f2b635.jpg",
+    "bytes": 77560,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=1080&h=370&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-26b8a8efe4.jpg",
+    "bytes": 42806,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=1280&h=438&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-8a89fa7bef.jpg",
+    "bytes": 55421,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=1668&h=571&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-3747ebe060.jpg",
+    "bytes": 84957,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=1920&h=657&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-4ff95df613.jpg",
+    "bytes": 106355,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=2048&h=701&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-4a2f7d7921.jpg",
+    "bytes": 117379,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=2560&h=876&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-817ff5a603.jpg",
+    "bytes": 165531,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=640&h=219&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-373f2f9fcd.jpg",
+    "bytes": 18088,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=750&h=257&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-3ae1664ef8.jpg",
+    "bytes": 23484,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=828&h=283&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-01df8cc84c.jpg",
+    "bytes": 27083,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?auto=format&w=960&h=329&q=70&fit=min": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-5092d69c60.jpg",
+    "bytes": 35337,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-fa56fdfc11.png",
+    "bytes": 319712,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-328b27b301.png",
+    "bytes": 388116,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-78d8d5bcd4.png",
+    "bytes": 388116,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-78d8d5bcd4.png",
+    "bytes": 388116,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-78d8d5bcd4.png",
+    "bytes": 388116,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-78d8d5bcd4.png",
+    "bytes": 388116,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-78d8d5bcd4.png",
+    "bytes": 388116,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-7af8ae6828.png",
+    "bytes": 132654,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-e5498349ed.png",
+    "bytes": 171845,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-9d648d4853.png",
+    "bytes": 203106,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-69778d9b75.png",
+    "bytes": 261498,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-26d42e3ba2.png",
+    "bytes": 449697,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-63e42c1114.png",
+    "bytes": 558949,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-b6bbb85424.png",
+    "bytes": 558949,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-b6bbb85424.png",
+    "bytes": 558949,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-b6bbb85424.png",
+    "bytes": 558949,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-b6bbb85424.png",
+    "bytes": 558949,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-b6bbb85424.png",
+    "bytes": 558949,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-845d380e93.png",
+    "bytes": 181715,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-d44ba360d8.png",
+    "bytes": 238184,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-4d02befcaa.png",
+    "bytes": 282540,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-dc696a0c03.png",
+    "bytes": 365665,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-31f631627f.jpg",
+    "bytes": 1102246,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=1080&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-a1938f825a.jpg",
+    "bytes": 147455,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=1280&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-c079a5a0a1.jpg",
+    "bytes": 188513,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=1668&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-692f122f53.jpg",
+    "bytes": 277797,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=1920&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-a99d540e85.jpg",
+    "bytes": 338544,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=2048&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-d0fb52f85c.jpg",
+    "bytes": 366345,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=2560&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-7d2a4dac47.jpg",
+    "bytes": 513727,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=3200&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-32ad6220fb.jpg",
+    "bytes": 712425,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=3840&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-cf15195592.jpg",
+    "bytes": 924210,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=4480&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-31f631627f.jpg",
+    "bytes": 1102246,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=5120&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-31f631627f.jpg",
+    "bytes": 1102246,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=6016&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-31f631627f.jpg",
+    "bytes": 1102246,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=640&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-4ba3545de3.jpg",
+    "bytes": 66384,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=750&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-abf76f029d.jpg",
+    "bytes": 84817,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=828&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-04c028e9fe.jpg",
+    "bytes": 98489,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/977737844d606487f68b26caa201f48efa1df08a-4267x4267.jpg?w=960&fit=min&auto=format": {
+    "local": "/assets/images/977737844d606487f68b26caa201f48efa1df08a-4267x4267-17a8c74b94.jpg",
+    "bytes": 123944,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=1080&h=540&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-e49ccfe6da.jpg",
+    "bytes": 45426,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=1280&h=640&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-7b609ba5cb.jpg",
+    "bytes": 59582,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=1668&h=834&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-44ca9f963f.jpg",
+    "bytes": 91639,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=1920&h=960&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-cc3fb0780c.jpg",
+    "bytes": 112506,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=2048&h=1024&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-6774fa5412.jpg",
+    "bytes": 125189,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=2560&h=1280&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-a3bb7af2ef.jpg",
+    "bytes": 176534,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=640&h=320&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-30d00b4a97.jpg",
+    "bytes": 19480,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=750&h=375&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-7c9a0fcf52.jpg",
+    "bytes": 25560,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=828&h=414&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-b32ebfb2ec.jpg",
+    "bytes": 29780,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?auto=format&w=960&h=480&q=70&fit=min": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-96d2aa1983.jpg",
+    "bytes": 37354,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=1080&h=450&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-6fc9607933.jpg",
+    "bytes": 68256,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=1280&h=533&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-a69a4741cf.jpg",
+    "bytes": 89174,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=1668&h=695&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-03606de656.jpg",
+    "bytes": 137735,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=1920&h=799&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-73ba7032b4.jpg",
+    "bytes": 170557,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=2048&h=853&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-c6faa5515a.jpg",
+    "bytes": 188266,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=2560&h=1066&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-9dff738114.jpg",
+    "bytes": 263679,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=640&h=267&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-1b01ecdf00.jpg",
+    "bytes": 28247,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=750&h=312&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-75ed213c62.jpg",
+    "bytes": 36186,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=828&h=345&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-05f04de546.jpg",
+    "bytes": 42413,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?auto=format&w=960&h=400&q=70&fit=min": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-1631f5f8bd.jpg",
+    "bytes": 53794,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400-42d5d86d3e.jpg",
+    "bytes": 21604,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400-42d5d86d3e.jpg",
+    "bytes": 21604,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400-42d5d86d3e.jpg",
+    "bytes": 21604,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/a321bdca3897e936092f6ff3ae3d5c05a2169afe-400x400-42d5d86d3e.jpg",
+    "bytes": 21604,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-bacd9c1db8.png",
+    "bytes": 367920,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-7d36281089.png",
+    "bytes": 455750,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-d990f45ca6.png",
+    "bytes": 455750,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-d990f45ca6.png",
+    "bytes": 455750,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-d990f45ca6.png",
+    "bytes": 455750,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-d990f45ca6.png",
+    "bytes": 455750,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-d990f45ca6.png",
+    "bytes": 455750,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-2f188d43b5.png",
+    "bytes": 150104,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-fe88c8bd90.png",
+    "bytes": 195139,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-b1ea75b9c8.png",
+    "bytes": 231300,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-574ce6a001.png",
+    "bytes": 298702,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=1080&h=1082&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-f5f8137c4c.jpg",
+    "bytes": 69181,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=1280&h=1282&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-b235f0bc3b.jpg",
+    "bytes": 90536,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=1668&h=1671&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-eae7fe455e.jpg",
+    "bytes": 106862,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=1920&h=1923&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-d520ecd45a.jpg",
+    "bytes": 109883,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=2048&h=2051&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-d520ecd45a.jpg",
+    "bytes": 109883,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=2560&h=2564&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-d520ecd45a.jpg",
+    "bytes": 109883,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=640&h=641&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-397497156e.jpg",
+    "bytes": 29566,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=750&h=751&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-165c6c601b.jpg",
+    "bytes": 38095,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=828&h=829&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-0f42badda2.jpg",
+    "bytes": 44740,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414.jpg?auto=format&w=960&h=962&q=70&fit=min": {
+    "local": "/assets/images/bf455c21d95afbc1deffde24708a1fb32a6ed011-1412x1414-d4381c8e78.jpg",
+    "bytes": 57293,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=1080&h=378&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-78da6ff01e.jpg",
+    "bytes": 73942,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=1280&h=448&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-18aca3517f.jpg",
+    "bytes": 98485,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=1668&h=584&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-1926c10d52.jpg",
+    "bytes": 162001,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=1920&h=672&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-2c05cda7f2.jpg",
+    "bytes": 207131,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=2048&h=717&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-f380b14a7e.jpg",
+    "bytes": 233385,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=2560&h=896&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-a7ebabc003.jpg",
+    "bytes": 344397,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=640&h=224&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-b171edc9ce.jpg",
+    "bytes": 28647,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=750&h=263&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-e5c73bdabd.jpg",
+    "bytes": 38066,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=828&h=290&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-72a678c652.jpg",
+    "bytes": 45547,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?auto=format&w=960&h=336&q=70&fit=min": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-1d347354ce.jpg",
+    "bytes": 59490,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=1080&h=1080&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-1672e9e33d.png",
+    "bytes": 400123,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=1254&h=1254&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-45c02475f6.png",
+    "bytes": 490002,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=1280&h=1280&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-721b45241d.png",
+    "bytes": 490002,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=1668&h=1668&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-721b45241d.png",
+    "bytes": 490002,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=1920&h=1920&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-721b45241d.png",
+    "bytes": 490002,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=2048&h=2048&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-721b45241d.png",
+    "bytes": 490002,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=2508&h=2508&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-721b45241d.png",
+    "bytes": 490002,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-7c50119127.png",
+    "bytes": 167335,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-fdb2ac6084.png",
+    "bytes": 216920,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=828&h=828&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-5e0aa73ac9.png",
+    "bytes": 255132,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?auto=format&w=960&h=960&q=70&fit=min": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-7826449d47.png",
+    "bytes": 327779,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=1080&h=360&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-81e85a7deb.jpg",
+    "bytes": 47573,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=1280&h=427&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-3fa5a5e33f.jpg",
+    "bytes": 62958,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=1668&h=556&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-af156da38c.jpg",
+    "bytes": 102157,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=1920&h=641&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-3e382dea92.jpg",
+    "bytes": 130305,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=2048&h=683&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-93adef847b.jpg",
+    "bytes": 143393,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=2560&h=854&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-f5d2104b85.jpg",
+    "bytes": 211539,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=640&h=213&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-d79eac8013.jpg",
+    "bytes": 19663,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=750&h=250&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-4f6c19e283.jpg",
+    "bytes": 25286,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=828&h=276&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-1f4358a712.jpg",
+    "bytes": 30065,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?auto=format&w=960&h=320&q=70&fit=min": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-11c31c4c2a.jpg",
+    "bytes": 38884,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=1080&h=360&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-2789d83f65.jpg",
+    "bytes": 29118,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=1280&h=427&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-e86343a394.jpg",
+    "bytes": 36883,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=1668&h=556&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-49640eca65.jpg",
+    "bytes": 52521,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=1920&h=641&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-2cafb8d841.jpg",
+    "bytes": 63942,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=2048&h=683&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-383e45040c.jpg",
+    "bytes": 69137,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=2560&h=854&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-1d7620226a.jpg",
+    "bytes": 93918,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=640&h=213&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-0f5ab25fe1.jpg",
+    "bytes": 14507,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=750&h=250&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-84ee5b9672.jpg",
+    "bytes": 17562,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=828&h=276&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-7d1045dbca.jpg",
+    "bytes": 20387,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?auto=format&w=960&h=320&q=70&fit=min": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-be9f5c8c03.jpg",
+    "bytes": 24880,
+    "contentType": "image/jpeg"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc-1e8edb2fc1.woff2",
+    "bytes": 18748,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7-e3237528af.woff2",
+    "bytes": 48256,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc-dbc85b0dfb.woff2",
+    "bytes": 18996,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc-a9d11b3ffe.woff2",
+    "bytes": 85068,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc-95b9ea8305.woff2",
+    "bytes": 25960,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc-6d0a674525.woff2",
+    "bytes": 11232,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2": {
+    "local": "/assets/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc-4c2d4a14f2.woff2",
+    "bytes": 10252,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbV2o-flEEny0FZhsfKu5WU4xD0OwG_TA.woff2": {
+    "local": "/assets/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD0OwG_TA-04f5d4cf51.woff2",
+    "bytes": 7504,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbV2o-flEEny0FZhsfKu5WU4xD1OwG_TA.woff2": {
+    "local": "/assets/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD1OwG_TA-2120d32cc6.woff2",
+    "bytes": 15196,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbV2o-flEEny0FZhsfKu5WU4xD2OwG_TA.woff2": {
+    "local": "/assets/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD2OwG_TA-9cc641b38d.woff2",
+    "bytes": 2028,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbV2o-flEEny0FZhsfKu5WU4xD4OwG_TA.woff2": {
+    "local": "/assets/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD4OwG_TA-74080d1969.woff2",
+    "bytes": 9004,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbV2o-flEEny0FZhsfKu5WU4xD7OwE.woff2": {
+    "local": "/assets/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD7OwE-9e4389699d.woff2",
+    "bytes": 40404,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbV2o-flEEny0FZhsfKu5WU4xD_OwG_TA.woff2": {
+    "local": "/assets/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD_OwG_TA-9dd8813def.woff2",
+    "bytes": 12108,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2": {
+    "local": "/assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_-3cb6b7b197.woff2",
+    "bytes": 21140,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2": {
+    "local": "/assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_-2f08df1456.woff2",
+    "bytes": 9112,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2": {
+    "local": "/assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_-edff487496.woff2",
+    "bytes": 21152,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2": {
+    "local": "/assets/fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA-363014d7c9.woff2",
+    "bytes": 38404,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gU8tenXg.woff2": {
+    "local": "/assets/fonts/vEFI2_tTDB4M7-auWDN0ahZJW1gU8tenXg-a6f9763a92.woff2",
+    "bytes": 29500,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gV8tenXg.woff2": {
+    "local": "/assets/fonts/vEFI2_tTDB4M7-auWDN0ahZJW1gV8tenXg-d017819303.woff2",
+    "bytes": 100872,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gW8tenXg.woff2": {
+    "local": "/assets/fonts/vEFI2_tTDB4M7-auWDN0ahZJW1gW8tenXg-c8d82c6162.woff2",
+    "bytes": 45220,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gY8tenXg.woff2": {
+    "local": "/assets/fonts/vEFI2_tTDB4M7-auWDN0ahZJW1gY8tenXg-22f0e7ef3a.woff2",
+    "bytes": 49336,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gb8tc.woff2": {
+    "local": "/assets/fonts/vEFI2_tTDB4M7-auWDN0ahZJW1gb8tc-326b4b869c.woff2",
+    "bytes": 122360,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFI2_tTDB4M7-auWDN0ahZJW1gf8tenXg.woff2": {
+    "local": "/assets/fonts/vEFI2_tTDB4M7-auWDN0ahZJW1gf8tenXg-9a3a242618.woff2",
+    "bytes": 93440,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFK2_tTDB4M7-auWDN0ahZJW1gewtG_Wo7H.woff2": {
+    "local": "/assets/fonts/vEFK2_tTDB4M7-auWDN0ahZJW1gewtG_Wo7H-3f9e818b5b.woff2",
+    "bytes": 90356,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFK2_tTDB4M7-auWDN0ahZJW1gewtW_Wg.woff2": {
+    "local": "/assets/fonts/vEFK2_tTDB4M7-auWDN0ahZJW1gewtW_Wg-9b3688f69c.woff2",
+    "bytes": 130188,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFK2_tTDB4M7-auWDN0ahZJW1gewta_Wo7H.woff2": {
+    "local": "/assets/fonts/vEFK2_tTDB4M7-auWDN0ahZJW1gewta_Wo7H-6b2dc9cc0a.woff2",
+    "bytes": 51644,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFK2_tTDB4M7-auWDN0ahZJW1gewti_Wo7H.woff2": {
+    "local": "/assets/fonts/vEFK2_tTDB4M7-auWDN0ahZJW1gewti_Wo7H-989bd6cb85.woff2",
+    "bytes": 46648,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFK2_tTDB4M7-auWDN0ahZJW1gewtq_Wo7H.woff2": {
+    "local": "/assets/fonts/vEFK2_tTDB4M7-auWDN0ahZJW1gewtq_Wo7H-c6641e0c60.woff2",
+    "bytes": 32208,
+    "contentType": "font/woff2"
+  },
+  "https://fonts.gstatic.com/s/sourceserif4/v15/vEFK2_tTDB4M7-auWDN0ahZJW1gewtu_Wo7H.woff2": {
+    "local": "/assets/fonts/vEFK2_tTDB4M7-auWDN0ahZJW1gewtu_Wo7H-c90e188fa5.woff2",
+    "bytes": 110324,
+    "contentType": "font/woff2"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400-40ae0b956e.jpg",
+    "bytes": 17204,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400-40ae0b956e.jpg",
+    "bytes": 17204,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400-40ae0b956e.jpg",
+    "bytes": 17204,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/0ef145cee3a630dcc7150c6b75cb0102805c5d7b-400x400-40ae0b956e.jpg",
+    "bytes": 17204,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/1143ce47d3a29d95d2b36222e37e286531ad9f38-1254x1254-99be374abb.png",
+    "bytes": 30385,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/1bb416ba09b56fd30567ac92d6ec5694e877f84c-1254x1254-c06becfcb4.png",
+    "bytes": 20508,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400-6bcb0bb551.jpg",
+    "bytes": 36016,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400-6bcb0bb551.jpg",
+    "bytes": 36016,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400-6bcb0bb551.jpg",
+    "bytes": 36016,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/1ed66f0de1bab2960194ecbfa54628cb90ec6efb-400x400-6bcb0bb551.jpg",
+    "bytes": 36016,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400-26197af359.jpg",
+    "bytes": 4306,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400-26197af359.jpg",
+    "bytes": 4306,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400-26197af359.jpg",
+    "bytes": 4306,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/2d06beca2b6fa70e3e1c4263c78bec868c425893-400x400-26197af359.jpg",
+    "bytes": 4306,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/31b7a2149846b97883bc94e3a3e8a439d48f54ab-8192x2438-a585db931c.jpg",
+    "bytes": 75031,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400-ba0a510ecf.jpg",
+    "bytes": 21098,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400-ba0a510ecf.jpg",
+    "bytes": 21098,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400-ba0a510ecf.jpg",
+    "bytes": 21098,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/35ef024c6ecc6ba1630a6cab2997e2d2bfeb0611-400x400-ba0a510ecf.jpg",
+    "bytes": 21098,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/3a9146cc7da91217ce0302fc786c73f38a08cd9d-8192x3070-b96334d330.jpg",
+    "bytes": 133097,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/44f627d5a0fe9e4999e8c037c73494fe1349ebf1-8192x4096-dcf3efacbf.jpg",
+    "bytes": 127083,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/533b7e5c5ae0e197dd596ea1d04d6248cb25ec5c-1254x1254-a4e488aad8.png",
+    "bytes": 30978,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/575c82e5d73b27a9f460726f76fb903e11f7e77b-1024x1024-44efc65c28.png",
+    "bytes": 81560,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/5dff1e44b643ade2b1a70387b705684bef8bc706-1254x1254-88562a32aa.png",
+    "bytes": 32841,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400-9b59707cb0.jpg",
+    "bytes": 15692,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400-9b59707cb0.jpg",
+    "bytes": 15692,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400-9b59707cb0.jpg",
+    "bytes": 15692,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/631fddf10a89f50fbc052120cc4e130e58da4f5c-400x400-9b59707cb0.jpg",
+    "bytes": 15692,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/6c7905c10a4366aa7c9328a876c58d17bcf9f67b-1254x1254-3e8c908275.png",
+    "bytes": 26810,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/6e0052c061b9652d4754bcbeb0376546a67ea399-1254x1254-74f5c10ea4.png",
+    "bytes": 25322,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/70c3fad4493a0dd38d86e5ab35d58b0cad0382e5-6960x4640-f26f83223a.jpg",
+    "bytes": 204693,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400-c0289fb1a7.jpg",
+    "bytes": 21189,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400-c0289fb1a7.jpg",
+    "bytes": 21189,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400-c0289fb1a7.jpg",
+    "bytes": 21189,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/73374ec517c61069a49ded1b90ec89f79d020ec2-400x400-c0289fb1a7.jpg",
+    "bytes": 21189,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/738f572ec2c5bce5eb9cdc3c8b3f17775782d1c0-8000x2736-c6738b9bd0.jpg",
+    "bytes": 99518,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400-d9d87da60b.jpg",
+    "bytes": 21953,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400-d9d87da60b.jpg",
+    "bytes": 21953,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400-d9d87da60b.jpg",
+    "bytes": 21953,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/7639de3594589c2b1f5661ca3c5f3202e41236ba-400x400-d9d87da60b.jpg",
+    "bytes": 21953,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400-373508c9fc.jpg",
+    "bytes": 15801,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400-373508c9fc.jpg",
+    "bytes": 15801,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400-373508c9fc.jpg",
+    "bytes": 15801,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/78565b48cfae4dbb50d290043e4abb8e99c8ec64-400x400-373508c9fc.jpg",
+    "bytes": 15801,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/79620f8911bb80237fe4e63c7c4bdcdb4d85a88c-1254x1254-08b1df4c2a.png",
+    "bytes": 20431,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400-6be688ec1b.jpg",
+    "bytes": 18774,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400-6be688ec1b.jpg",
+    "bytes": 18774,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400-6be688ec1b.jpg",
+    "bytes": 18774,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/7b94ca635b3c50854b7e0d96fcd43a22673bd18e-400x400-6be688ec1b.jpg",
+    "bytes": 18774,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400-c3eaed9160.jpg",
+    "bytes": 24298,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400-c3eaed9160.jpg",
+    "bytes": 24298,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400-c3eaed9160.jpg",
+    "bytes": 24298,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/80c03659b3ffe592bb0548c61b2a3576dcd92c67-400x400-c3eaed9160.jpg",
+    "bytes": 24298,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/81f75950dc857a17b0217f3c83849d69a264f276-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/81f75950dc857a17b0217f3c83849d69a264f276-400x400-7ed1607b9f.jpg",
+    "bytes": 19212,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/81f75950dc857a17b0217f3c83849d69a264f276-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/81f75950dc857a17b0217f3c83849d69a264f276-400x400-7ed1607b9f.jpg",
+    "bytes": 19212,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/81f75950dc857a17b0217f3c83849d69a264f276-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/81f75950dc857a17b0217f3c83849d69a264f276-400x400-7ed1607b9f.jpg",
+    "bytes": 19212,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/81f75950dc857a17b0217f3c83849d69a264f276-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/81f75950dc857a17b0217f3c83849d69a264f276-400x400-7ed1607b9f.jpg",
+    "bytes": 19212,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/87358a5436c03635db9e13ae9685f6837346bb0a-1254x1254-029e343951.png",
+    "bytes": 25704,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/9abcbfb47af5d2489aeac4fb636f58061d8b38b0-6000x3000-3e1bc162ab.jpg",
+    "bytes": 106512,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/9d7d25b3a7cf7881f618d2d09acc3dcb869b801f-4800x2000-9f54e061ba.jpg",
+    "bytes": 159823,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400-d315cd462b.jpg",
+    "bytes": 18790,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400-d315cd462b.jpg",
+    "bytes": 18790,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400-d315cd462b.jpg",
+    "bytes": 18790,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/a2fb6c10c78e484718d3a6c9b164672bd6c56d75-400x400-d315cd462b.jpg",
+    "bytes": 18790,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400-02c3b972af.jpg",
+    "bytes": 27592,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400-02c3b972af.jpg",
+    "bytes": 27592,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400-02c3b972af.jpg",
+    "bytes": 27592,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/a7dc6932a54be1eb4a12d75c33e55f29e45adaf6-400x400-02c3b972af.jpg",
+    "bytes": 27592,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400-c32e7e64eb.jpg",
+    "bytes": 53538,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400-c32e7e64eb.jpg",
+    "bytes": 53538,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400-c32e7e64eb.jpg",
+    "bytes": 53538,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/a9d9781d0ccca05790026c37760cb8964818d3e5-400x400-c32e7e64eb.jpg",
+    "bytes": 53538,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400-e2815511d2.jpg",
+    "bytes": 33603,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400-e2815511d2.jpg",
+    "bytes": 33603,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400-e2815511d2.jpg",
+    "bytes": 33603,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/ab4b421742c5038aac02aaddf01dd64d079e4481-400x400-e2815511d2.jpg",
+    "bytes": 33603,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/b84f80bfb9a2a81f511b4e11907240cbd01d3378-1254x1254-183bfa98ca.png",
+    "bytes": 24995,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b900ac169ef11839a79dcedb9b16934e4440543d-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/b900ac169ef11839a79dcedb9b16934e4440543d-400x400-c831112ce9.jpg",
+    "bytes": 27758,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b900ac169ef11839a79dcedb9b16934e4440543d-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/b900ac169ef11839a79dcedb9b16934e4440543d-400x400-c831112ce9.jpg",
+    "bytes": 27758,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b900ac169ef11839a79dcedb9b16934e4440543d-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/b900ac169ef11839a79dcedb9b16934e4440543d-400x400-c831112ce9.jpg",
+    "bytes": 27758,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/b900ac169ef11839a79dcedb9b16934e4440543d-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/b900ac169ef11839a79dcedb9b16934e4440543d-400x400-c831112ce9.jpg",
+    "bytes": 27758,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400-148f799915.jpg",
+    "bytes": 22912,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400-148f799915.jpg",
+    "bytes": 22912,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400-148f799915.jpg",
+    "bytes": 22912,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/c7e8cfa3935bfc246944cf8bcf4497c203b5d5eb-400x400-148f799915.jpg",
+    "bytes": 22912,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/cd72b69f4bb0a990f1a72305ff7d1573a7d29da1-8192x2868-e452565433.jpg",
+    "bytes": 184557,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/dda83474952987b249f061ebb4b7528055200915-1254x1254.png?w=200&q=80&auto=format": {
+    "local": "/assets/images/dda83474952987b249f061ebb4b7528055200915-1254x1254-dcec36f0e8.png",
+    "bytes": 29566,
+    "contentType": "image/png"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400-6c722e3601.jpg",
+    "bytes": 17134,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400-6c722e3601.jpg",
+    "bytes": 17134,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400-6c722e3601.jpg",
+    "bytes": 17134,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/e34e46058c80e9c4fe0e0d55dac83f2559432e88-400x400-6c722e3601.jpg",
+    "bytes": 17134,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400-474c69c571.jpg",
+    "bytes": 20607,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400-474c69c571.jpg",
+    "bytes": 20607,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400-474c69c571.jpg",
+    "bytes": 20607,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/e8ccf76e06b0ef62ae67e5fc0f3406b6b6b370ec-400x400-474c69c571.jpg",
+    "bytes": 20607,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400.jpg?auto=format&w=400&h=400&q=70&fit=min": {
+    "local": "/assets/images/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400-8013aaa513.jpg",
+    "bytes": 24766,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400.jpg?auto=format&w=640&h=640&q=70&fit=min": {
+    "local": "/assets/images/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400-8013aaa513.jpg",
+    "bytes": 24766,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400.jpg?auto=format&w=750&h=750&q=70&fit=min": {
+    "local": "/assets/images/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400-8013aaa513.jpg",
+    "bytes": 24766,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400.jpg?auto=format&w=800&h=800&q=70&fit=min": {
+    "local": "/assets/images/eeb6187b8a16a9768a722241d67b7bcae0db854f-400x400-8013aaa513.jpg",
+    "bytes": 24766,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/f18c898ae8dc7081d17f5828191b771968e43a75-7680x2560-05626d2885.jpg",
+    "bytes": 118734,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/0khjfvv2/production/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731.jpg?w=1920&q=70&auto=format": {
+    "local": "/assets/images/f7fe0d306e792283173a1e51400adf97c9cb2505-8192x2731-e266e747a2.jpg",
+    "bytes": 62447,
+    "contentType": "image/jpeg"
+  },
+  "user-upload:2150439367.jpg": {
+    "local": "/assets/images/erc-communities-placeholder.jpg",
+    "bytes": 539941,
+    "contentType": "image/jpeg",
+    "sha256": "1a7ed2426934d0ab1647964a822456b69569c627a1562d6254233a07b746e28f",
+    "usage": "ERC Communities Inc offering card temporary image"
+  },
+  "user-upload:2151990793.jpg": {
+    "local": "/assets/images/golfsuites-placeholder.jpg",
+    "bytes": 589580,
+    "contentType": "image/jpeg",
+    "sha256": "12ede5038d5f7e197cefd37c1f152b9bc3c782ae3ce6c7644bced8bb4be572d1",
+    "usage": "GolfSuites Inc offering card temporary image"
+  },
+  "user-upload:2149661456.jpg": {
+    "local": "/assets/images/w11-sandbox-placeholder.jpg",
+    "bytes": 495835,
+    "contentType": "image/jpeg",
+    "sha256": "35f4780353ad8df2b47ad9512833b93384fcfa503e99876f24e638d221e3feea",
+    "usage": "W11 Demo Sandbox Offering offering card temporary image"
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "path": "/",
+    "source": "src/pages/home.html",
+    "title": "Capital Orchestration Platform | Equilibria"
+  },
+  {
+    "path": "/solutions/esop-succession",
+    "source": "src/pages/solutions--esop-succession.html",
+    "title": "ESOP Succession Planning | Equilibria"
+  },
+  {
+    "path": "/solutions/ma-advisory",
+    "source": "src/pages/solutions--ma-advisory.html",
+    "title": "Middle-Market M&A Advisory | Equilibria"
+  },
+  {
+    "path": "/solutions/post-close",
+    "source": "src/pages/solutions--post-close.html",
+    "title": "Post-Close Operations | Equilibria"
+  },
+  {
+    "path": "/pricing",
+    "source": "src/pages/pricing.html",
+    "title": "Engagement Models | Equilibria"
+  },
+  {
+    "path": "/contact",
+    "source": "src/pages/contact.html",
+    "title": "Contact Equilibria | Capital Orchestration"
+  },
+  {
+    "path": "/offerings",
+    "source": "src/pages/offerings.html",
+    "title": "Private-Market Offerings | Equilibria"
+  },
+  {
+    "path": "/markets",
+    "source": "src/pages/markets.html",
+    "title": "Markets | Equilibria"
+  },
+  {
+    "path": "/markets/asia",
+    "source": "src/pages/markets--asia.html",
+    "title": "Asia-Pacific Digital Securities | Equilibria"
+  },
+  {
+    "path": "/markets/europe",
+    "source": "src/pages/markets--europe.html",
+    "title": "Europe Digital Securities | Equilibria"
+  },
+  {
+    "path": "/markets/gcc-middle-east",
+    "source": "src/pages/markets--gcc-middle-east.html",
+    "title": "GCC Digital Securities | Equilibria"
+  },
+  {
+    "path": "/markets/north-america",
+    "source": "src/pages/markets--north-america.html",
+    "title": "North America Digital Securities | Equilibria"
+  },
+  {
+    "path": "/markets/south-america",
+    "source": "src/pages/markets--south-america.html",
+    "title": "South America Digital Securities | Equilibria"
+  },
+  {
+    "path": "/for-advisors",
+    "source": "src/pages/for-advisors.html",
+    "title": "For Advisors | Capital Orchestration"
+  },
+  {
+    "path": "/about",
+    "source": "src/pages/about.html",
+    "title": "About Equilibria | Middle-Market Capital"
+  },
+  {
+    "path": "/offerings/syndication-delta",
+    "source": "src/pages/offerings--syndication-delta.html",
+    "title": "ERC Communities Inc"
+  },
+  {
+    "path": "/platform",
+    "source": "src/pages/platform.html",
+    "title": "Digital Securities Platform | Equilibria"
+  },
+  {
+    "path": "/legal/compliance",
+    "source": "src/pages/legal--compliance.html",
+    "title": "Compliance"
+  },
+  {
+    "path": "/legal/privacy",
+    "source": "src/pages/legal--privacy.html",
+    "title": "Privacy Policy"
+  },
+  {
+    "path": "/legal/terms",
+    "source": "src/pages/legal--terms.html",
+    "title": "Terms of Use"
+  },
+  {
+    "path": "/legal/reg-a",
+    "source": "src/pages/legal--reg-a.html",
+    "title": "Regulation A+"
+  },
+  {
+    "path": "/legal/reg-s",
+    "source": "src/pages/legal--reg-s.html",
+    "title": "Regulation S | Equilibria"
+  },
+  {
+    "path": "/legal/reg-d",
+    "source": "src/pages/legal--reg-d.html",
+    "title": "Regulation D | Equilibria"
+  },
+  {
+    "path": "/offerings/aquaterra-floating-communities",
+    "source": "src/pages/offerings--aquaterra-floating-communities.html",
+    "title": "AquaTerra Living - Invest in Floating Community Innovation"
+  },
+  {
+    "path": "/offerings/st-enterprises-llc",
+    "source": "src/pages/offerings--st-enterprises-llc.html",
+    "title": "ST Enterprises LLC - U.S. Industrial Assets Investment"
+  },
+  {
+    "path": "/offerings/azure-coast-resorts",
+    "source": "src/pages/offerings--azure-coast-resorts.html",
+    "title": "Azure Coast Resorts - Luxury Hospitality Investment"
+  },
+  {
+    "path": "/offerings/urban-modular-residential",
+    "source": "src/pages/offerings--urban-modular-residential.html",
+    "title": "Urban Modular Residential - High-Efficiency Housing Investment"
+  },
+  {
+    "path": "/offerings/affordable-housing-solutions",
+    "source": "src/pages/offerings--affordable-housing-solutions.html",
+    "title": "Affordable Housing Solutions - Impact Investment Opportunity"
+  },
+  {
+    "path": "/offerings/w11-demo-sandbox-offering",
+    "source": "src/pages/offerings--w11-demo-sandbox-offering.html",
+    "title": "W11 Demo Sandbox Offering"
+  },
+  {
+    "path": "/offerings/greenfield-sustainable-housing",
+    "source": "src/pages/offerings--greenfield-sustainable-housing.html",
+    "title": "Greenfield Sustainable Housing - Net-Zero Investment Opportunity"
+  },
+  {
+    "path": "/offerings/streamverse-entertainment",
+    "source": "src/pages/offerings--streamverse-entertainment.html",
+    "title": "StreamVerse Entertainment - Interactive Streaming Investment"
+  },
+  {
+    "path": "/offerings/global-impact-ventures",
+    "source": "src/pages/offerings--global-impact-ventures.html",
+    "title": "Global Impact Ventures - Impact Investment Fund"
+  },
+  {
+    "path": "/offerings/golfsuites-inc-syndication-gamma",
+    "source": "src/pages/offerings--golfsuites-inc-syndication-gamma.html",
+    "title": "GolfSuites Inc"
+  },
+  {
+    "path": "/offerings/payflow-technologies",
+    "source": "src/pages/offerings--payflow-technologies.html",
+    "title": "PayFlow Technologies - Cross-Border Payment Investment"
+  },
+  {
+    "path": "/offerings/metropolitan-infrastructure-fund",
+    "source": "src/pages/offerings--metropolitan-infrastructure-fund.html",
+    "title": "Metropolitan Infrastructure Fund - Tokenized Infrastructure Investment"
+  },
+  {
+    "path": "/offerings/community-solar-partners",
+    "source": "src/pages/offerings--community-solar-partners.html",
+    "title": "Community Solar Partners - Clean Energy Investment Portfolio"
+  }
+]
