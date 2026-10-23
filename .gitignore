@@ -1,0 +1,11 @@
+# Build output (Vercel runs `npm run build` itself)
+dist/
+node_modules/
+.vercel/
+
+# Local tooling and Windows files
+.claude/
+desktop.ini
+
+# Internal working notes, not part of the website
+invest-word-audit.md

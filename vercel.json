@@ -4,5 +4,8 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/solutions/ma-advisory", "destination": "/solutions/m-and-a", "permanent": true }
+  ]
 }
