@@ -10,5 +10,10 @@
     "start": "node scripts/dev.mjs",
     "check": "node scripts/check.mjs"
   },
-  "engines": {"node": ">=20"}
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.15"
+  }
 }

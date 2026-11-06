@@ -167,7 +167,10 @@
   }
 
   document.querySelectorAll('[data-frontend-form]').forEach(form => {
-    form.addEventListener('submit',event => {
+    // Spam trap: the server ignores forms submitted faster than a person could fill them in.
+    const startedAt = form.querySelector('[name="startedAt"]');
+    if (startedAt) startedAt.value = String(Date.now());
+    form.addEventListener('submit',async event => {
       event.preventDefault();
       if (!form.reportValidity()) return;
       let status = form.querySelector('[data-form-status]');
@@ -176,7 +179,27 @@
         status.setAttribute('role','status'); status.className = 'mt-4 text-sm leading-6 text-muted-foreground';
         form.append(status);
       }
-      status.textContent = 'Frontend preview: your message has been validated. Email delivery is not connected.';
+      const button = form.querySelector('[type="submit"]');
+      button.disabled = true; status.textContent = 'Sending…';
+      try {
+        const response = await fetch(form.getAttribute('action'), {
+          method: 'POST', headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(Object.fromEntries(new FormData(form))),
+        });
+        const result = await response.json().catch(() => ({}));
+        if (response.ok && result.ok) {
+          form.reset();
+          if (startedAt) startedAt.value = String(Date.now());
+          status.textContent = 'Thank you. Your message has been sent, and we will reply by email.';
+        } else {
+          const fields = Object.values(result.fieldErrors || {});
+          status.textContent = fields.length ? fields.join(' ') : (result.error || 'Sorry, we couldn\'t send your message right now. Please try again later.');
+        }
+      } catch {
+        status.textContent = 'Sorry, we couldn\'t send your message right now. Please check your connection and try again.';
+      } finally {
+        button.disabled = false;
+      }
     });
   });
 })();
