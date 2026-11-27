@@ -6,6 +6,30 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    { "source": "/solutions/ma-advisory", "destination": "/solutions/m-and-a", "permanent": true }
+    {
+      "source": "/solutions/ma-advisory",
+      "destination": "/solutions/m-and-a",
+      "permanent": true
+    },
+    {
+      "source": "/markets/asia",
+      "destination": "/markets",
+      "permanent": false
+    },
+    {
+      "source": "/markets/europe",
+      "destination": "/markets",
+      "permanent": false
+    },
+    {
+      "source": "/markets/south-america",
+      "destination": "/markets",
+      "permanent": false
+    },
+    {
+      "source": "/offerings/:slug",
+      "destination": "/offerings",
+      "permanent": false
+    }
   ]
 }

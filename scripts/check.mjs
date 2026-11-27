@@ -5,7 +5,8 @@ import path from 'node:path';
 import vm from 'node:vm';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const routes=JSON.parse(await readFile(path.join(root,'routes.json'),'utf8'));
-assert(routes.length >= 23,'Expected at least all 23 originally requested pages');
+// Nov 2026: Asia, Europe and South America market pages and the public offering detail pages were retired (redirects in vercel.json).
+assert(routes.length >= 21,'Expected at least 21 pages');
 assert.equal(new Set(routes.map(r=>r.path)).size,routes.length,'Duplicate routes');
 const known=new Set(routes.map(r=>r.path));
 let checked=0;

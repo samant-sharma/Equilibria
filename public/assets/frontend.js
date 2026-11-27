@@ -166,6 +166,39 @@
     activate(0);
   }
 
+  // Exit Options Readiness Score: scores answers live and writes them into the hidden message field.
+  document.querySelectorAll('[data-readiness-form]').forEach(form => {
+    const scored = [...form.querySelectorAll('fieldset[data-scored]')];
+    const out = name => form.querySelector(`[data-rs-${name}]`);
+    const tiers = {
+      'We are executing one now': 'The Transaction tier ($60,000 for the exit year) covers the diligence room, closing workflow and new cap table.',
+      'In 1–3 years': 'The Readiness tier ($25,000 a year) gives you the full exit-options workspace and a quarterly readiness review.',
+      'In 3 or more years': 'The Foundation tier ($15,000 a year) organizes your ownership record and documents early.',
+      'Not sure yet': 'A paid Readiness Assessment ($5,000–$7,500, credited to your first year) gives you a written plan with your CPA.',
+    };
+    const update = () => {
+      const answered = scored.filter(set => set.querySelector('input:checked'));
+      const points = answered.reduce((sum, set) => sum + Number(set.querySelector('input:checked').dataset.points), 0);
+      const score = scored.length ? Math.round(points / (scored.length * 3) * 100) : 0;
+      const timeline = form.querySelector('input[name="timeline"]:checked')?.value;
+      const complete = answered.length === scored.length;
+      out('score').textContent = answered.length ? String(score) : '–';
+      out('bar').style.width = `${answered.length ? score : 0}%`;
+      out('band').textContent = !answered.length ? 'Answer the questions above to see your score.'
+        : !complete ? `Provisional score: ${scored.length - answered.length} question(s) left to answer.`
+        : score >= 70 ? 'Well prepared. Your records support most exit options; the review will focus on choosing and timing a path.'
+        : score >= 40 ? 'Partly prepared. A few record and document gaps would slow a sale, ESOP or recap today.'
+        : 'Early stage. Organizing your ownership record and documents now will keep more exit options open.';
+      out('next').textContent = timeline ? `Suggested next step after your free Readiness Review: ${tiers[timeline]}` : '';
+      const lines = [...form.querySelectorAll('fieldset')].map(set => `${set.querySelector('legend').textContent}\n   ${set.querySelector('input:checked')?.value || '(not answered)'}`);
+      const company = form.querySelector('[name="company"]')?.value.trim();
+      form.querySelector('[name="message"]').value = `Exit Options Readiness Score: ${answered.length ? score : '-'} / 100${complete ? '' : ' (incomplete)'}\nCompany: ${company || '(not given)'}\n\n${lines.join('\n')}`;
+    };
+    form.addEventListener('change', update);
+    form.addEventListener('input', update);
+    update();
+  });
+
   document.querySelectorAll('[data-frontend-form]').forEach(form => {
     // Spam trap: the server ignores forms submitted faster than a person could fill them in.
     const startedAt = form.querySelector('[name="startedAt"]');
@@ -188,9 +221,10 @@
         });
         const result = await response.json().catch(() => ({}));
         if (response.ok && result.ok) {
-          form.reset();
+          // The readiness form keeps its answers on screen so the visitor can still see their score.
+          if (!form.hasAttribute('data-readiness-form')) form.reset();
           if (startedAt) startedAt.value = String(Date.now());
-          status.textContent = 'Thank you. Your message has been sent, and we will reply by email.';
+          status.textContent = form.dataset.success || 'Thank you. Your message has been sent, and we will reply by email.';
         } else {
           const fields = Object.values(result.fieldErrors || {});
           status.textContent = fields.length ? fields.join(' ') : (result.error || 'Sorry, we couldn\'t send your message right now. Please try again later.');

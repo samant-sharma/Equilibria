@@ -32,22 +32,12 @@
   {
     "path": "/offerings",
     "source": "src/pages/offerings.html",
-    "title": "Private-Market Offerings | Equilibria"
+    "title": "Offerings | Verified Investors Only | Equilibria"
   },
   {
     "path": "/markets",
     "source": "src/pages/markets.html",
     "title": "Markets | Equilibria"
-  },
-  {
-    "path": "/markets/asia",
-    "source": "src/pages/markets--asia.html",
-    "title": "Asia-Pacific Market Context | Equilibria"
-  },
-  {
-    "path": "/markets/europe",
-    "source": "src/pages/markets--europe.html",
-    "title": "Europe Market Context | Equilibria"
   },
   {
     "path": "/markets/gcc-middle-east",
@@ -60,11 +50,6 @@
     "title": "North America Market Context | Equilibria"
   },
   {
-    "path": "/markets/south-america",
-    "source": "src/pages/markets--south-america.html",
-    "title": "South America Market Context | Equilibria"
-  },
-  {
     "path": "/for-advisors",
     "source": "src/pages/for-advisors.html",
     "title": "For Advisors | Capital Orchestration"
@@ -73,11 +58,6 @@
     "path": "/about",
     "source": "src/pages/about.html",
     "title": "About Equilibria | Middle-Market Capital"
-  },
-  {
-    "path": "/offerings/syndication-delta",
-    "source": "src/pages/offerings--syndication-delta.html",
-    "title": "ERC Communities Inc"
   },
   {
     "path": "/platform",
@@ -120,8 +100,8 @@
     "title": "Regulatory Status | Equilibria"
   },
   {
-    "path": "/offerings/golfsuites-inc-syndication-gamma",
-    "source": "src/pages/offerings--golfsuites-inc-syndication-gamma.html",
-    "title": "GolfSuites Inc"
+    "path": "/readiness-score",
+    "source": "src/pages/readiness-score.html",
+    "title": "Exit Options Readiness Score | Equilibria"
   }
 ]
