@@ -75,6 +75,8 @@ export default async function handler(req, res) {
   }
 
   const rows = [['Name', values.name], ['Email', values.email], ['Subject', values.subject || '(none)']];
+  // The Readiness Score page posts here too, with this fixed subject.
+  const formName = values.subject === 'Exit Options Readiness Score' ? 'Readiness Score' : 'Contact Us';
   const sentAt = new Date().toLocaleString('en-GB', {timeZone: 'Asia/Kolkata', dateStyle: 'medium', timeStyle: 'short'}) + ' IST';
   try {
     await smtp().sendMail({
@@ -82,9 +84,9 @@ export default async function handler(req, res) {
       to: CONTACT_INBOX,
       replyTo: {name: values.name, address: values.email},
       subject: `Website contact: ${values.subject || values.name}`.slice(0, 200),
-      text: `New message from the Contact Us form on equilibria.net (${sentAt}).\n\n${rows.map(([k, v]) => `${k}: ${v}`).join('\n')}\n\nMessage:\n${values.message}\n\nReply to this email to answer ${values.name} directly.`,
+      text: `New message from the ${formName} form on equilibria.net (${sentAt}).\n\n${rows.map(([k, v]) => `${k}: ${v}`).join('\n')}\n\nMessage:\n${values.message}\n\nReply to this email to answer ${values.name} directly.`,
       html: `<div style="font-family:Arial,sans-serif;font-size:14px;color:#1a1a1a;line-height:1.5">
-<p>New message from the Contact Us form on equilibria.net (${escapeHtml(sentAt)}).</p>
+<p>New message from the ${formName} form on equilibria.net (${escapeHtml(sentAt)}).</p>
 <table style="border-collapse:collapse">${rows.map(([k, v]) => `<tr><td style="padding:2px 12px 2px 0;color:#666">${k}</td><td style="padding:2px 0">${escapeHtml(v)}</td></tr>`).join('')}</table>
 <p style="margin:16px 0 4px;color:#666">Message</p>
 <div style="white-space:pre-wrap;border-left:3px solid #b86518;padding:8px 12px;background:#f5f2ea">${escapeHtml(values.message)}</div>
