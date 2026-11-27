@@ -212,6 +212,13 @@
         status.setAttribute('role','status'); status.className = 'mt-4 text-sm leading-6 text-muted-foreground';
         form.append(status);
       }
+      // hCaptcha (Contact Us form only, when a site key is configured): its token is single-use.
+      const captcha = form.querySelector('[data-hcaptcha][data-sitekey]');
+      const resetCaptcha = () => { if (captcha && window.hcaptcha) { try { window.hcaptcha.reset(); } catch {} } };
+      if (captcha) {
+        if (!window.hcaptcha) { status.textContent = 'The security check is still loading. Please wait a moment and try again.'; return; }
+        if (!form.querySelector('[name="h-captcha-response"]')?.value) { status.textContent = 'Please complete the security check before sending.'; return; }
+      }
       const button = form.querySelector('[type="submit"]');
       button.disabled = true; status.textContent = 'Sending…';
       try {
@@ -232,6 +239,7 @@
       } catch {
         status.textContent = 'Sorry, we couldn\'t send your message right now. Please check your connection and try again.';
       } finally {
+        resetCaptcha();
         button.disabled = false;
       }
     });

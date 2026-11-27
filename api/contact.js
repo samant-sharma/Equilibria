@@ -1,6 +1,7 @@
 // Vercel serverless function: emails Contact Us messages from the website.
 // Sent through SMTP (Namecheap Private Email) as admin@equilibria.net; replies go to the visitor.
 // Required Vercel environment variables: SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD.
+// Optional: HCAPTCHA_SITEKEY + HCAPTCHA_SECRET turn on hCaptcha for the Contact Us form (set both together).
 import nodemailer from 'nodemailer';
 
 const SENDER = {name: 'Equilibria Website', address: 'admin@equilibria.net'};
@@ -28,6 +29,26 @@ function smtp() {
     greetingTimeout: 15_000,
   });
   return transport;
+}
+
+/** The Readiness Score page posts to this endpoint too, always with this subject. */
+const READINESS_SUBJECT = 'Exit Options Readiness Score';
+
+/** Checks a Contact Us hCaptcha token with hCaptcha (needs the HCAPTCHA_SECRET environment variable). */
+async function verifyHcaptcha(token, ip) {
+  if (!token) return false;
+  const params = new URLSearchParams({secret: process.env.HCAPTCHA_SECRET, response: token});
+  if (ip) params.set('remoteip', ip);
+  if (process.env.HCAPTCHA_SITEKEY) params.set('sitekey', process.env.HCAPTCHA_SITEKEY.trim());
+  try {
+    const response = await fetch('https://api.hcaptcha.com/siteverify', {method: 'POST', body: params, signal: AbortSignal.timeout(10_000)});
+    const result = await response.json();
+    if (!result.success) console.warn('[contact] hCaptcha rejected:', (result['error-codes'] || []).join(', '));
+    return result.success === true;
+  } catch (error) {
+    console.error('[contact] hCaptcha check failed:', error.message);
+    return false;
+  }
 }
 
 function tooManyRecent(ip) {
@@ -69,14 +90,20 @@ export default async function handler(req, res) {
   const ip = text(req.headers['x-forwarded-for']).split(',')[0].trim() || text(req.headers['x-real-ip']);
   if (tooManyRecent(ip)) return res.status(429).json({error: "You've sent several messages in the last hour. Please try again later."});
 
+  // hCaptcha is on the Contact Us form only; the Readiness Score form has no captcha.
+  const isReadiness = values.subject === READINESS_SUBJECT;
+  if (!isReadiness && process.env.HCAPTCHA_SECRET) {
+    const passed = await verifyHcaptcha(text(body['h-captcha-response']), ip);
+    if (!passed) return res.status(400).json({error: 'The security check did not go through. Please complete it again and resend.'});
+  }
+
   if (!process.env.SMTP_HOST || !process.env.SMTP_USER || !process.env.SMTP_PASSWORD) {
     console.error('[contact] SMTP is not configured (SMTP_HOST, SMTP_USER, SMTP_PASSWORD)');
     return res.status(503).json({error: "Sorry, we couldn't send your message right now. Please try again later."});
   }
 
   const rows = [['Name', values.name], ['Email', values.email], ['Subject', values.subject || '(none)']];
-  // The Readiness Score page posts here too, with this fixed subject.
-  const formName = values.subject === 'Exit Options Readiness Score' ? 'Readiness Score' : 'Contact Us';
+  const formName = isReadiness ? 'Readiness Score' : 'Contact Us';
   const sentAt = new Date().toLocaleString('en-GB', {timeZone: 'Asia/Kolkata', dateStyle: 'medium', timeStyle: 'short'}) + ' IST';
   try {
     await smtp().sendMail({
